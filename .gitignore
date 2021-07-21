@@ -9,6 +9,7 @@ __pycache__/
 # jupyter
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+/Notebooks/Data/tweet_df_klein.pkl
+/Notebooks/Plots/
 # other
 .idea/*
