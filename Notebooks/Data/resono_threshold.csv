@@ -1,0 +1,181 @@
+,location,area_m2,crowd_threshold_low,crowd_threshold_high
+0,Willibrordusplein,8031,112,179
+1,Sloterpark,3571463,3571,7142
+2,Picknickheuvel en evenemententerrein,299769,299,599
+3,Waterlandplein,6401,264,440
+4,Forintplantsoen,23027,45,68
+5,Piet Wiedijkpark,222085,222,444
+6,Botteskerkpark,78817,78,157
+7,Stadspark Osdorp,156060,156,312
+8,Jan van Zutphenplantsoen,96473,154,229
+9,Osdorpplein,73528,981,1543
+10,Kasterleepark,134095,175,268
+11,Belgieplein,10908,323,516
+12,Confuciusplein,14868,102,140
+13,Zuidplein,24464,706,1130
+14,Park De Kuil,212422,212,424
+15,Sierplein,18831,321,514
+16,Lange Bretten,3201162,3201,6402
+17,Lambertus Zijlplein,16605,249,398
+18,Ed Pelsterpark,23353,81,122
+19,Mercatorplein,14680,313,501
+20,Eendrachtspark,178028,178,356
+21,Hertspieghelplantsoen,9554,42,62
+22,Staalmanpark,25231,38,61
+23,Siegerpark,95947,0,0
+24,Stadionplein,12306,169,270
+25,Piet Mondriaanplein,16938,99,158
+26,Schooltuin Jan Toorop,31701,0,0
+27,Westermarkt,9405,347,555
+28,De Oeverlanden,932311,932,1864
+29,Kroller-Mollerpark,20998,36,54
+30,Plein '40-'45,29799,552,883
+31,Joop van Weezelhof,8033,625,1048
+32,Gerbrandypark,242723,242,485
+33,Willem Augustinpark,9486,114,171
+34,Carrascoplein,32091,500,700
+35,Schinkeleilanden,126514,126,253
+36,Rembrandtpark,1318115,1318,2636
+37,Erasmuspark,296878,296,593
+38,Gijsbrecht van Aemstelpark,922600,922,1845
+39,Campusplein,92984,390,624
+40,Vondelpark West,662580,4500,6000
+41,George Gershwinplein,9770,42,67
+42,Gustav Mahlerplein,15586,158,254
+43,Prinses Amaliaplein,12451,111,177
+44,Kinkerstraat,40889,1352,1776
+45,Bilderdijkpark,16346,84,126
+46,Bos en Lommerplein,11504,256,409
+47,Theophilusplantsoen,8485,67,101
+48,Wachterliedplantsoen,38577,226,338
+49,Bolwerk,19684,207,311
+50,Leidseplein,29633,1500,2000
+51,Hoftuin,11628,52,78
+52,Beatrixpark,705572,903,1411
+53,Sarphatipark,136675,471,785
+54,Museumplein,99678,334,501
+55,De Dam West,24688,639,1022
+56,Leidsebosje,27937,1000,1400
+57,Kleine-Gartmanplantsoen,9682,231,406
+58,Wertheimpark,19589,65,97
+59,Eerste Weteringplantsoen,25011,138,207
+60,Rembrandtplein,34943,451,722
+61,Spui,12662,392,627
+62,Amstelpark,1184031,1184,2368
+63,Marie Heinekenplein,8937,320,400
+64,Tweede Weteringplantsoen,26026,262,394
+65,Kalverstraat Noord,9126,1470,1960
+66,Kalverstraat Zuid,5246,726,968
+67,Rokin,22386,880,1210
+68,De Dam Oost,16739,554,886
+69,Albert Cuyp,34535,1234,1621
+70,Thorbeckeplein,6681,106,170
+71,Beursplein,7003,269,431
+72,Amstelveld,8922,80,112
+73,Karspelplantsoen,39753,39,79
+74,Sportpark Overamstel,371697,371,743
+75,Spaarndammerplantsoen,25543,41,65
+76,Nieuwmarkt,27893,417,667
+77,Waterlooplein,24774,289,463
+78,Jonas Daniel Meijerplein,15131,72,116
+79,Frederik Hendrikplantsoen,66323,447,670
+80,Haarlemmerplein,11869,399,630
+81,Stenen Hoofd,28007,0,0
+82,Papaverplantsoen,11307,41,62
+83,Stationsplein,56795,597,955
+84,Nieuwendijk,11453,1278,1704
+85,Boerhaaveplein,10179,82,131
+86,Damrak,15090,632,869
+87,Meidoornplein,16572,59,94
+88,Weesperzijde,30864,410,653
+89,Westermanplantsoen,20431,105,157
+90,De Ruijterkade,22026,316,505
+91,Overhoeksparklaan,192762,192,385
+92,Pontlocatie Buiksloterplein,8901,121,194
+93,Tolhuistuin,48582,63,97
+94,Martin Luther Kingpark,221510,672,1007
+95,Park Somerlust,20748,75,113
+96,Bella Vistapark,64807,0,0
+97,Prins Bernhardpark,44102,203,304
+98,Javastraat,24161,983,1294
+99,Oostenburgerpark,20902,144,216
+100,Steigerpark,9034,45,68
+101,Oosterpark,381362,2200,3000
+102,Marie Altelaarplein,14362,108,173
+103,Pekmarkt,15575,349,459
+104,Oostpoort,30093,489,782
+105,Park Frankendael,538342,538,1076
+106,Darwinplantsoen,119236,230,345
+107,Pontplein,8009,67,107
+108,W.H. Vliegenbos,749982,749,1499
+109,Spreeuwenpark,11276,99,148
+110,Noorderpark,1107672,1130,2215
+111,ArenaPark,53619,0,0
+112,Hoekenrode,25213,500,650
+113,Joop Woortmanplein,8727,31,46
+114,Albert Wittenbergplein,10243,51,82
+115,De Passage,30932,900,1260
+116,De Loper,36094,500,700
+117,Makassarplein,20084,182,303
+118,Baron G.A. Tindalplein,12853,100,140
+119,Bijlmerplein,49243,1600,2300
+120,Voorlandpark,70611,93,141
+121,R.J.H. Fortuynplein,12031,64,103
+122,Keesje Brijdeplantsoen,20434,248,361
+123,Flevopark,892664,892,1785
+124,Nelson Mandelapark,1183865,1183,2367
+125,Grote Rieteiland Park,122561,250,365
+126,Anton de Komplein,22440,241,386
+127,Levantplein,19380,59,95
+128,Baanakkerspark,427257,427,854
+129,Noordermarkt,11236,178,285
+130,Dappermarkt,33728,1335,1750
+131,De Groene Zoom,102854,240,356
+132,Buikslotermeerplein,65500,813,1301
+133,Schellingwouderpark,646792,646,1293
+134,Theo van Goghpark,110239,350,490
+135,Snodenhoekpark,28621,59,88
+136,Professor Joop van Stigtpark,389602,668,963
+137,Diemerpark,1712087,1712,3424
+138,Joris Ivensplein,25238,135,216
+139,Ten Katermarkt,8468,824,1084
+140,Gaasperpark,1484919,1484,2969
+141,Westergasfabriek,138870,166,266
+142,Winkelcentrum Brazilie,25734,231,369
+143,Groot Gelderlandplein,116866,1176,1882
+144,Tussenmeer,37556,1240,1631
+145,Winkelcentrum Amstelveen,94202,1382,2210
+146,Johan Cruijff Boulevard,54213,3500,5000
+147,Javaplein,10458,259,414
+148,Amsterdamse Bos Noord,12956184,12956,25912
+149,Amsterdamse Bos Zuid,6969063,6969,13938
+150,Marineterrein,216454,408,680
+151,Gaasperplas,850514,850,1701
+152,Oudekerkerplas,2897613,827,1380
+153,Kade bij de Steltloper,10114,140,210
+154,Gerard Douplein,5179,167,267
+155,Strand Blijburg,1278157,413,690
+156,Pampuslaan,230305,500,700
+157,Skatepark USZ,30879,58,93
+158,Het Twiske,17579809,17579,35159
+159,NDSM-Plein,207444,500,700
+160,NDSM-Kade,14416,38,61
+161,J.J. Cremerplein,19830,72,116
+162,Kwakersplein,7936,129,207
+163,Van Beuningenplein,17098,50,80
+164,Lindengracht,38257,1090,1435
+165,Westerstraat,38985,1462,1924
+166,Bruggen Prinsengracht-Noordermarkt,32986,254,406
+167,De Poel,1909290,1909,3818
+168,Spaarndammerstraat,34712,793,1043
+169,Bogortuin,54930,77,115
+170,Vondelpark Oost 1,64173,1200,1600
+171,Vondelpark Oost 2,176416,1500,2000
+172,Vondelpark Oost 3,382608,3000,4000
+173,Westerpark Oost,186214,172,241
+174,Westerpark Centrum,134959,142,213
+175,Westerpark West,379715,172,241
+176,ZeeburgPR2,23735,0,0
+177,Zuidas-West,2117204,0,0
+178,Zuidas-Centrum,663078,0,0
+179,Zuidas-Oost,1349758,0,0
